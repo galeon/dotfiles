@@ -1,6 +1,6 @@
 [user]
-  name = Evan Chiu
-  email = evan@evanchiu.com
+  name = Karthikeyan Rajendran
+  email = karthik@k-7.org
 [core]
   autocrlf = input
   whitespace = fix,space-before-tab,tab-in-indent,trailing-space
